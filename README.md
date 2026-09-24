@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="./github-banner.png" alt="Sumit Kumar - Developer Banner" width="100%">
+  <img src="./github-banner.png.png" alt="Sumit Kumar - Developer Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
