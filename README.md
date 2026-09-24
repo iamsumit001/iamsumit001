@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="https://iamsumit001.github.io">
+  <a href="https://iamsumit001.github.io/my_portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/iamsumit001">
+  <a href="https://www.linkedin.com/in/sumit-kumar-79a310322/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:[iamsahusumit@gmail.com](mailto:iamsahusumit@gmail.com)">
+  <a href="mailto:iamsahusumit@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
